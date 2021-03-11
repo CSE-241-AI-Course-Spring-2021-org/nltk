@@ -1,6 +1,7 @@
 # Lab Task-4:Pos-Tagging-Chunking-NER with RNN and BI-LSTM
 
 In this lab task, I have done POS-TAGGING, CHUNKING AND NAMED ENTITY RECOGNITION using RNN and BI-LSTM
+<a href="http://keyhero.com/profile/_shreyasraj__/?ba" title="_shreyasraj__'s typing test profile"><img src="https://www.keyhero.com/static//badges/1353/typing-test-406016.png" alt="_shreyasraj__'s typing test WPM" style="vertical-align:middle"></a>
 
 ## RNN
     Recurrent Neural Network is a generalization of feedforward neural network that has an internal memory. RNN is recurrent in nature as it performs the same function for every input of data while the output of the current input depends on the past one computation. After producing the output, it is copied and sent back into the recurrent network. For making a decision, it considers the current input and the output that it has learned from the previous input.
