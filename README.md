@@ -1,6 +1,7 @@
 # GUI Tool for detection flooding attack
 ## How to use?
-- type the following command in kali terminal
+- Make sure you install all the necessary python libraries.
+- Type the following command in kali terminal.
 - sudo python tool.py
 - Now click on scan buttton to scan the incoming traffic.
 - Which produces a bargraph
