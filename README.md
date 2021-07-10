@@ -7,3 +7,7 @@
 - Which produces a bargraph
 - Make to open any broswer so that other network will enter and we can see the changes in the bar graph.
 - Now launch a flooding attack from another VM and see the changes.
+
+- Built a tool to detect the Flooding attack.
+- Implemented significant features from plotting the number of incoming data packets at each port to alerting the user in case of an attack.
+  - **Exposure**: Scapy, Tkinter
